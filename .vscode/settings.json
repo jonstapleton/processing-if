@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "processing/core/library/core.jar",
+        "p/core.jar"
+    ]
+}
